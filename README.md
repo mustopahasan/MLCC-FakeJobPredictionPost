@@ -5,4 +5,5 @@ The dataset containing 17,880 real-life job ads with 866 fraudulent job ads publ
 
 
 Source : http://emscad.samos.aegean.gr/
+
 Downloaded from : https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
